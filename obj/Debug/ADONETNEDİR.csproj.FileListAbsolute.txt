@@ -1,0 +1,11 @@
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\bin\Debug\ADONETNEDİR.exe.config
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\bin\Debug\ADONETNEDİR.exe
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\bin\Debug\ADONETNEDİR.pdb
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.Form1.resources
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.Properties.Resources.resources
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.csproj.GenerateResource.cache
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.exe
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.pdb
+C:\Users\tarik\source\repos\ADONETNEDİR\ADONETNEDİR\obj\Debug\ADONETNEDİR.Kategori.resources
